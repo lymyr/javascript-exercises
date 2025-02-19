@@ -4,10 +4,6 @@ const getTheTitles = function(arrObj) {
         titles.push(arrObj[i].title)
     }
     return titles
-    // let titles = [];
-    // for (title in books.titles) {
-    //     title 
-    // }
 };
 
 // Do not edit below this line
